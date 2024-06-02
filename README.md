@@ -5,18 +5,27 @@
     <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=2000&pause=200&color=F78166&center=true&random=false&width=435&lines=Hi+There!;I'm+Chadly+Riedewald" alt="Typing SVG" />
 </h1>
 
+<h3 align="center">A passionate web developer from the Netherlands 🇳🇱</h3>
 
-<!--
-**chadlydev/chadlydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+🔭 I’m currently working on **my portfolio**
+ 
+🌱 I’m currently expanding my knowledge on **Drizzle ORM, PostgreSQL, Lucia Auth**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about **Next.js, TypeScript or anything [here](https://github.com/chadlydev/chadlydev/issues)**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:hi@chadly.dev">
+    <img src="https://img.shields.io/badge/EMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/chadlydev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://chadly.dev" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" target="_blank" />
+</div>
