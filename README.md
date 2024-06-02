@@ -1,7 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chadlydev.chadlydev" />
 
 
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chadly+Riedewald!;" />
+</h1>
+
 
 <!--
 **chadlydev/chadlydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
