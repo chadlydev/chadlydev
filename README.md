@@ -29,3 +29,12 @@
   <a href="https://chadly.dev" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white" target="_blank" />
 </div>
+<br/>
+<br/>
+ 
+ 
+<h2 align="center">⚒️ Techstack ⚒️</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vercel,prisma,postgres,github,git,figma,bun,firebase" />
+</div>
