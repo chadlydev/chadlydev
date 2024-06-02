@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Chadly+Riedewald!;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=2000&pause=200&color=F78166&center=true&random=false&width=435&lines=Hi+There!;I'm+Chadly+Riedewald" alt="Typing SVG" />
 </h1>
 
 
