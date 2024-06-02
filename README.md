@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋+I'm+Chadly+Riedewald!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Chadly+Riedewald!;" />
 </h1>
 
 
